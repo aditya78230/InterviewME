@@ -81,6 +81,6 @@ The platform automates resume screening, conducts AI-generated interviews, and p
 ## 📬 Contact
 
 Feel free to reach out for collaborations or queries:  
-📧 adityajadhav@email.com *(example placeholder)*
+📧 adityajadhav14143@email.com
 
 ---
